@@ -1,8 +1,20 @@
-This is the *Bill Splitter* project I made myself.
+# Bill Splitter  
 
+Welcome to **Bill Splitter**! This is a practical project I created to simplify bill splitting among friends.  
 
-<p>Everyone likes eating out with friends. The more friends, the better, but the bill time is always a bummer, to say the least. Why not develop a tool to keep the fun alive and make sure that everyone pays an equal amount.</p><br/><br/>Learn more at <a href="https://hyperskill.org/projects/175?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card">https://hyperskill.org/projects/175</a>
+## Project Overview  
+Everyone loves eating out with friends, and the more friends, the better. But when it comes to splitting the bill, things can get tricky. This tool ensures everyone pays an equal share, keeping the fun alive and avoiding any awkwardness.  
 
-Here's the link to the project: https://hyperskill.org/projects/175
+## Features  
+- User-friendly input for bill amounts and number of people  
+- Automatic calculation of equal shares  
+- Simple and efficient design  
 
-Check out my profile: https://hyperskill.org/profile/612562442
+## Learn More  
+This project is part of the [JetBrains Academy Introduction to Python Track](https://hyperskill.org/courses/6-introduction-to-python).  
+
+## Project Link  
+Access the project details here: [Project Page](https://hyperskill.org/projects/175)  
+
+## About Me  
+Check out my profile on JetBrains Academy: [My Profile](https://hyperskill.org/profile/612562442)  
